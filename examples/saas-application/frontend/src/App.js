@@ -71,7 +71,7 @@ function App() {
       </main>
 
       <footer style={styles.footer}>
-        <p>Copyright 2024 Abejar. Contact: grant@abejar.net</p>
+        <p>Created with love by <a href="https://abejar.net" style={{color: '#00d4ff'}}>abejar.net</a></p>
       </footer>
     </div>
   );
